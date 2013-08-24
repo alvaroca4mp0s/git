@@ -1,3 +1,3 @@
-hola hola
+Cada vez que hago un arreglo o modificacion debo sincronizar
 
-hola
+23
